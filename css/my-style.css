@@ -1,0 +1,79 @@
+body {
+    margin-bottom: 100px;
+    
+}
+
+.footer {
+    position: fixed;
+    bottom: 0;
+    height: 60px;
+    font-size: small;
+    padding-left: 15px;
+    padding-top: 20px;
+    width: 100%;
+    text-align: center;
+    color: white;
+}
+
+.btn {
+    margin-top: 10px;
+    
+}
+
+.confirmation h4 {
+    text-align: center;
+}
+ 
+.confirmation {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.card {
+  max-width: 230px;
+  margin: 10px;
+  text-align: center;
+  display: inline-flex;
+  flex-direction: column;
+}
+
+.price {
+  color: grey;
+  font-size: 22px;
+}
+
+.card a {
+  border: none;
+  outline: 0;
+  padding: 15px;
+  background-color: grey;
+  text-align: center;
+  width: 100%;
+  font-size: 18px;
+  
+}
+
+.card a :hover {
+  opacity: 0.5;
+}
+
+.navbar {
+  margin-bottom: 20px;
+}
+
+#display-items {
+  margin-left: 45px;
+}
+
+.welcome h4 {
+  text-align: center;
+}
+
+.welcome {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
